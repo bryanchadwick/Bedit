@@ -1,0 +1,25 @@
+
+# Font selection and width/height in pixels
+font=-bitstream-courier 10 pitch-medium-r-normal--0-0-0-0-m-0-adobe-standard
+fwidth=9
+fheight=15
+
+# Print/Post-script sizes
+psize=10
+pwidth=19
+pheight=15
+
+# Displayed in a buffer on startup
+message=/home/chadwick/share/Bedit/messages.txt
+
+
+#keyword=/home/chadwick/share/Bedit/keywords.cs
+#local=/home/chadwick/share/Bedit/sudokeywords.cs
+keyword=/home/chadwick/share/Bedit/keywords.cpp
+local=/home/chadwick/share/Bedit/sudokeywords.cpp
+
+# Initial Window Size
+wwidth=600
+wheight=700
+syntax=true
+undos=64

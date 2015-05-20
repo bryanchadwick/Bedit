@@ -18,6 +18,8 @@ I then extended it to also inlude an X11 version with tabs, command execution in
 The code is rather dense, and comments are sparse, so I'll give an overview of what I can
   glean/remember from the source.
 
+_.bedit_ : The main configuration file for BEdit.  Place in your home-directory.
+
 _shareFiles.tgz_ : files that can/should be placed in ~/share/Bedit. Default messages, keywords, etc.
 
 _Makefile_ : Straight forward build file for make... XBedit is the default target.
